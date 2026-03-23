@@ -4,7 +4,7 @@ I’m a digital marketing and web optimization leader with experience across ent
 
 I’ve led global web platform launches, built scalable testing programs, and partnered across marketing, product, engineering, analytics, and compliance to drive measurable business impact.
 
-## What I work on
+## What I am working on
 - Web optimization and experimentation
 - Digital marketing strategy
 - SEO / AEO and content performance
