@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Jessica 👋
 
-<!--
-**jessicacarin/jessicacarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a digital marketing and web optimization leader with experience across enterprise web strategy, experimentation, SEO/AEO, lifecycle marketing, and performance reporting.
 
-Here are some ideas to get you started:
+I’ve led global web platform launches, built scalable testing programs, and partnered across marketing, product, engineering, analytics, and compliance to drive measurable business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Web optimization and experimentation
+- Digital marketing strategy
+- SEO / AEO and content performance
+- Reporting, insights, and conversion growth
+
+## Currently
+- Exploring new marketing leadership opportunities
+- Building out my portfolio and personal brand
+
+## Links
+- Portfolio: https://jessicacarin.github.io
+- LinkedIn: [https://www.linkedin.com/in/jessicacarin/]
