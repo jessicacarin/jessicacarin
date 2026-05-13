@@ -17,3 +17,4 @@ I’ve led global web platform launches, built scalable testing programs, and pa
 ## Links
 - Portfolio: https://jessicacarin.github.io
 - LinkedIn: [https://www.linkedin.com/in/jessicacarin/]
+- AI Prompt Library for Marketers: [ai-marketing-prompt-library](https://github.com/jessicacarin/ai-marketing-prompt-library)
