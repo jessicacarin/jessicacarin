@@ -20,7 +20,7 @@ I'm currently deepening my technical skills and exploring how AI fits into moder
 
 ## Currently
 
-Open to new digital marketing opportunities and actively building out my portfolio and personal brand.
+Open to new digital marketing opportunities.
 
 ---
 
@@ -29,3 +29,4 @@ Open to new digital marketing opportunities and actively building out my portfol
 - 🌐 [Portfolio](https://jessicacarin.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jessicacarin/)
 - 📚 [AI Prompt Library for Marketers](https://github.com/jessicacarin/ai-marketing-prompt-library)
+- [B2B Attribution Calculator] (https://jessicacarin.github.io/b2b-attribution-calculator/) 
