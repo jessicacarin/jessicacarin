@@ -29,4 +29,4 @@ Open to new digital marketing opportunities.
 - 🌐 [Portfolio](https://jessicacarin.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jessicacarin/)
 - 📚 [AI Prompt Library for Marketers](https://github.com/jessicacarin/ai-marketing-prompt-library)
-- [B2B Attribution Calculator] (https://jessicacarin.github.io/b2b-attribution-calculator/) 
+- [B2B Attribution Calculator](https://jessicacarin.github.io/b2b-attribution-calculator/) 
