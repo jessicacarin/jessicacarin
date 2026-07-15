@@ -15,6 +15,7 @@ I'm currently deepening my technical skills and exploring how AI fits into moder
 - SEO, AEO, and content performance strategy
 - HubSpot Digital Marketing Certification
 - AI Agents on AWS
+- New time tracking mobile app...about to go LIVE on Apple and Android! Hint: 🍔
 
 ---
 
