@@ -12,8 +12,9 @@ I'm currently deepening my technical skills and exploring how AI fits into moder
 
 - Automation workflows and agentic AI assistants
 - SQL refresh and data fluency
-- SEO, AEO, and content performance strategy
-- HubSpot Digital Marketing Certification
+- SEO, AEO, and content performance strategy for clients
+- HubSpot Digital Marketing Certification - Done!
+- Googe Ads Search Certification (2026) - In Progress!
 - AI Agents on AWS
 - New time tracking mobile app...about to go LIVE on Apple and Android! Hint: 🍔
 
@@ -21,7 +22,7 @@ I'm currently deepening my technical skills and exploring how AI fits into moder
 
 ## Currently
 
-Open to new digital marketing opportunities.
+Open to new senior digital marketing, lifecycle, and growth marketing opportunities.
 
 ---
 
